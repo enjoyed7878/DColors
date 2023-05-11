@@ -1,0 +1,64 @@
+<!-- sample rectangle -->
+<svg width="256" height="192" xmlns="http://www.w3.org/2000/svg">
+<title>Colors Microsoft Office 2003</title>
+<g id="1px">
+  <rect width="32" height="32" x="0" y="0" fill="black"/>
+  <rect width="32" height="32" x="32" y="0" fill="#930"/>
+  <rect width="32" height="32" x="64" y="0" fill="#330"/>
+  <rect width="32" height="32" x="96" y="0" fill="#030"/>
+  <rect width="32" height="32" x="128" y="0" fill="#036"/>
+  <rect width="32" height="32" x="160" y="0" fill="navy"/>
+  <rect width="32" height="32" x="192" y="0" fill="#339"/>
+  <rect width="32" height="32" x="224" y="0" fill="#333"/>
+</g>
+<g id="2px">
+  <rect width="32" height="32" x="0" y="32" fill="maroon"/>
+  <rect width="32" height="32" x="32" y="32" fill="#F60"/>
+  <rect width="32" height="32" x="64" y="32" fill="olive"/>
+  <rect width="32" height="32" x="96" y="32" fill="green"/>
+  <rect width="32" height="32" x="128" y="32" fill="teal"/>
+  <rect width="32" height="32" x="160" y="32" fill="blue"/>
+  <rect width="32" height="32" x="192" y="32" fill="#669"/>
+  <rect width="32" height="32" x="224" y="32" fill="gray"/>
+</g>
+<g id="3px">
+  <rect width="32" height="32" x="0" y="64" fill="red"/>
+  <rect width="32" height="32" x="32" y="64" fill="#F90"/>
+  <rect width="32" height="32" x="64" y="64" fill="#9C0"/>
+  <rect width="32" height="32" x="96" y="64" fill="#396"/>
+  <rect width="32" height="32" x="128" y="64" fill="#3cc"/>
+  <rect width="32" height="32" x="160" y="64" fill="#36f"/>
+  <rect width="32" height="32" x="192" y="64" fill="purple"/>
+  <rect width="32" height="32" x="224" y="64" fill="#969696"/>
+</g>
+<g id="4px">
+  <rect width="32" height="32" x="0" y="96" fill="magenta"/>
+  <rect width="32" height="32" x="32" y="96" fill="#FC0"/>
+  <rect width="32" height="32" x="64" y="96" fill="Yellow"/>
+  <rect width="32" height="32" x="96" y="96" fill="LIME"/>
+  <rect width="32" height="32" x="128" y="96" fill="CYAN"/>
+  <rect width="32" height="32" x="160" y="96" fill="#0Cf"/>
+  <rect width="32" height="32" x="192" y="96" fill="#936"/>
+  <rect width="32" height="32" x="224" y="96" fill="SILVER"/>
+</g>
+<g id="5px">
+  <rect width="32" height="32" x="0" y="128" fill="#F9c"/>
+  <rect width="32" height="32" x="32" y="128" fill="#FC9"/>
+  <rect width="32" height="32" x="64" y="128" fill="#fF9"/>
+  <rect width="32" height="32" x="96" y="128" fill="#CFC"/>
+  <rect width="32" height="32" x="128" y="128" fill="#CFF"/>
+  <rect width="32" height="32" x="160" y="128" fill="#9CF"/>
+  <rect width="32" height="32" x="192" y="128" fill="#F9C"/>
+  <rect width="32" height="32" x="224" y="128" fill="WHITE"/>
+</g>
+<g id="6px">
+  <rect width="32" height="32" x="0" y="160" fill="#C00"/>
+  <rect width="32" height="32" x="32" y="160" fill="#090"/>
+  <rect width="32" height="32" x="64" y="160" fill="#093"/>
+  <rect width="32" height="32" x="96" y="160" fill="#039"/>
+  <rect width="32" height="32" x="128" y="160" fill="#009"/>
+  <rect width="32" height="32" x="160" y="160" fill="#39F"/>
+  <rect width="32" height="32" x="192" y="160" fill="#FC3"/>
+  <rect width="32" height="32" x="224" y="160" fill="#CC3"/>
+</g>
+</svg>
